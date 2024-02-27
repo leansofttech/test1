@@ -1,3 +1,4 @@
 Name - matou
 Registration no.:12479
 Address - #303 East Main Street, Richmond
+Address2 - #304 East Main Street, Richmond
